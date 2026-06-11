@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.jkim0672_oppa.twa",
+    "sha256_cert_fingerprints": ["C1:1A:4E:8D:19:65:D6:78:E8:F3:E8:70:15:60:3E:5D:E8:29:DE:15:2E:7C:AB:E9:21:5A:5B:F7:F9:BD:A4:27"]
+  }
+}]
